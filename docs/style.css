@@ -7,7 +7,7 @@ color: Red;
 font-family: Copperplate, Papyrus, fantasy;
 text-align: center; 
 }
-div{font-size: 40px;}
+div{font-size: 50px}
 
 /* ebb: This is a comment in CSS: 
  * Notice that the properties I set on the <body> element get passed down to elements inside it. So all my text is the color and font that I set here. 
